@@ -10,10 +10,10 @@
 ###Module: Current trends in social computing
 
 ----
-Manoj Kumar Reddy Bokku </br>--
- -
+Manoj Kumar Reddy Bokku 
+-
 M.Sc. Information Systems 
- -
+-
 14204512 
 
 -
