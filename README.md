@@ -10,11 +10,11 @@
 ###Module: Current trends in social computing
 
 ----
-Manoj Kumar Reddy Bokku 
+######Manoj Kumar Reddy Bokku 
 -
-M.Sc. Information Systems 
+######M.Sc. Information Systems 
 -
-14204512 
+######14204512 
 
 -
  <p> Gamification is a word invented by Nick Pelling in 2002, It is an online platform for the effective participation of the users of applying the game design techniques and game mechanism In the non-game contexts, In this problem based learning we need to present a clear idea about the game and give proper instructions to proceed further levels for each level adding the credits to purchase the tools required for the game completion with in a given time limit.</p>
